@@ -11,5 +11,3 @@
 ## Against TOS
 - This is concidered a selfbot, any script that does something to an account is one.
 - I am not responsible for anything you do with my code, I made this for educational purposes only.  
-
-// watch out skids I fucked yo mom
